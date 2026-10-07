@@ -17,7 +17,7 @@ An end-to-end machine learning pipeline built to classify leukemia cancer subtyp
 ## Key Results
 - **ROC-AUC:** 0.9800
 - **Top Biomarkers:** Identified primary transcriptomic drivers distinguishing Acute Lymphoblastic Leukemia from Acute Myeloid Leukemia.
-## 🚀 How to Run This Project
+##  How to Run This Project
 
 You can run this pipeline either in your browser via Google Colab (recommended) or locally on your machine.
 
