@@ -24,7 +24,7 @@ You can run this pipeline either in your browser via Google Colab (recommended) 
 
 ### Option 1: Run in Google Colab (Recommended & Instant)
 Click the badge below to open and run the notebook instantly in your browser:
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/daksh3122/Transcriptomic-Disease-Classification/blob/main/YOUR_EXACT_FILENAME.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/daksh3122/Transcriptomic-Disease-Classification/blob/main/Disease_Classification_Pipeline.ipynb)
 
 ### Option 2: Run Locally
 1. Clone the repository:
